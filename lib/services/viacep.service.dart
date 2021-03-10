@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/widgets.dart';
 import 'package:http/http.dart';
-import 'package:viacep/models/address.model.dart';
+import 'package:flutterbuscacep/models/address.model.dart';
 
 class ViaCepApiConnection {
   var reqScheme = 'https', reqHost = 'viacep.com.br', reqPath = '';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:viacep/models/address.model.dart';
-import 'package:viacep/services/viacep.service.dart';
+import 'package:flutterbuscacep/models/address.model.dart';
+import 'package:flutterbuscacep/services/viacep.service.dart';
 
 class HomeScreen extends StatelessWidget {
   @override
